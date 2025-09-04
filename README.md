@@ -2,15 +2,6 @@
 
 - 🔭 I’m currently working on [@NWMelbPHN](https://twitter.com/nwmelbphn)
 
-```
-«There's two kinds of people, my friend...
-    
-                                                          ... and you code.»
-```                                                    
-                                                    
-![code](https://user-images.githubusercontent.com/1182173/156495677-5f1221b8-2bdd-4e3e-a388-d85eeacf08d3.jpg)
-
-
 <!--
 **rubencho/rubencho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
